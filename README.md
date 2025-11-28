@@ -1,1 +1,1 @@
-# SIGNAL
+#A SIGNAL method for MRs
