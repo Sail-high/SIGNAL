@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use SIGNAL, please cite the article in preferred-citation."
+type: software
+title: "SIGNAL: Synergistic multi-granularity semantic alignment learning for multimodal recommendation"
+authors:
+  - family-names: Li
+    given-names: Meizi
+  - family-names: Gao
+    given-names: Hang
+  - family-names: Zhang
+    given-names: Bo
+  - family-names: Yu
+    given-names: Yang
+  - family-names: Zou
+    given-names: Guojian
+  - family-names: Ding
+    given-names: Ling
+repository-code: "https://github.com/Sail-high/SIGNAL"
+url: "https://github.com/Sail-high/SIGNAL"
+preferred-citation:
+  type: article
+  title: "SIGNAL: Synergistic multi-granularity semantic alignment learning for multimodal recommendation"
+  authors:
+    - family-names: Li
+      given-names: Meizi
+    - family-names: Gao
+      given-names: Hang
+    - family-names: Zhang
+      given-names: Bo
+    - family-names: Yu
+      given-names: Yang
+    - family-names: Zou
+      given-names: Guojian
+    - family-names: Ding
+      given-names: Ling
+  journal: "Expert Systems with Applications"
+  volume: "333"
+  start: "134101"
+  year: 2027
+  doi: "10.1016/j.eswa.2026.134101"

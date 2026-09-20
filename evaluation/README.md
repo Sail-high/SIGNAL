@@ -1,5 +1,7 @@
 # EVALUATING THE SOTA MODELS
 
+> Archived MMRec evaluation documentation. The datasets and results below belong to the inherited framework documentation; SIGNAL paper results are presented in the [project README](../README.md#results).
+
 we validate the effectiveness and efficiency of state-of-the-art multimodal recommendation models by conducting extensive experiments on four public datasets. Furthermore, we investigate the principal determinants of model performance, including the impact of different modality information and data split methods.
 
 ## Statistics of the evaluated datasets.

@@ -1,0 +1,5 @@
+# Preserve exact bytes for paper and image assets on every platform.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary

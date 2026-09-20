@@ -1,0 +1,33 @@
+# Python / local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Local datasets and generated graph caches
+data/*
+!data/README.md
+*.npy
+*.npz
+*.lmdb
+
+# Training outputs
+log/
+logs/
+saved/
+recommend_topk/
+*.log
+*.pth
+*.pt
+*.ckpt
+wandb/
+runs/
+
+# Editors / operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/

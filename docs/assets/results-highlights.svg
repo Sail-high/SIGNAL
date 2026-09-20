@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="198" viewBox="0 0 1280 198" role="img" aria-labelledby="title desc">
+<title id="title">Recall at 20 improvements reported in the SIGNAL paper</title>
+<desc id="desc">Baby 5.54 percent, Sports 8.37 percent, Clothing 5.10 percent, TikTok 6.10 percent. Relative to each dataset's strongest non-SIGNAL baseline in Table 4, fixed-seed comparison.</desc>
+<rect x="1" y="1" width="306" height="162" rx="12" fill="#f7fafc" stroke="#dae4ec"/>
+<rect x="23" y="24" width="5" height="15" rx="2" fill="#168578"/>
+<text x="39" y="37" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#536779" letter-spacing="2">BABY</text>
+<text x="23" y="100" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#168578" letter-spacing="-1.5">+5.54%</text>
+<text x="24" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#657a8a" letter-spacing="1.5">RECALL @ 20</text>
+<rect x="325" y="1" width="306" height="162" rx="12" fill="#f7fafc" stroke="#dae4ec"/>
+<rect x="347" y="24" width="5" height="15" rx="2" fill="#4e60ba"/>
+<text x="363" y="37" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#536779" letter-spacing="2">SPORTS</text>
+<text x="347" y="100" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#4e60ba" letter-spacing="-1.5">+8.37%</text>
+<text x="348" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#657a8a" letter-spacing="1.5">RECALL @ 20</text>
+<rect x="649" y="1" width="306" height="162" rx="12" fill="#f7fafc" stroke="#dae4ec"/>
+<rect x="671" y="24" width="5" height="15" rx="2" fill="#168578"/>
+<text x="687" y="37" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#536779" letter-spacing="2">CLOTHING</text>
+<text x="671" y="100" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#168578" letter-spacing="-1.5">+5.10%</text>
+<text x="672" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#657a8a" letter-spacing="1.5">RECALL @ 20</text>
+<rect x="973" y="1" width="306" height="162" rx="12" fill="#f7fafc" stroke="#dae4ec"/>
+<rect x="995" y="24" width="5" height="15" rx="2" fill="#4e60ba"/>
+<text x="1011" y="37" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#536779" letter-spacing="2">TIKTOK</text>
+<text x="995" y="100" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#4e60ba" letter-spacing="-1.5">+6.10%</text>
+<text x="996" y="134" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#657a8a" letter-spacing="1.5">RECALL @ 20</text>
+<text x="2" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#657a8a">Paper Table 4 · Fixed-seed results · Gain over the strongest non-SIGNAL baseline per dataset</text>
+</svg>

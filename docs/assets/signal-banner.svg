@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">SIGNAL — Synergistic multi-granularity semantic alignment learning</title>
+<desc id="desc">White academic banner using the framework figure's pastel blue, mint, yellow, and lavender palette. A simplified illustration presents graph encoding, semantic alignment, and conflict refinement.</desc>
+<rect x="1" y="1" width="1278" height="398" rx="18" fill="#ffffff" stroke="#d8dde1" stroke-width="1.5"/>
+
+<text x="54" y="51" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#6f7b85" letter-spacing="2.8">MULTIMODAL RECOMMENDATION</text>
+<text x="49" y="178" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="700" fill="#25313e" letter-spacing="-4">SIGNAL</text>
+<rect x="55" y="195" width="31" height="5" rx="2.5" fill="#88cfee" stroke="none" stroke-width="1.2"/>
+<rect x="95" y="195" width="31" height="5" rx="2.5" fill="#92e5bd" stroke="none" stroke-width="1.2"/>
+<rect x="135" y="195" width="31" height="5" rx="2.5" fill="#ffda70" stroke="none" stroke-width="1.2"/>
+<rect x="175" y="195" width="31" height="5" rx="2.5" fill="#9aaddd" stroke="none" stroke-width="1.2"/>
+<text x="54" y="245" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#424b54">Synergistic Multi-Granularity</text>
+<text x="54" y="282" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#424b54">Semantic Alignment Learning</text>
+<rect x="54" y="326" width="288" height="29" rx="7" fill="#edf4e7" stroke="none" stroke-width="1.2"/>
+<text x="68" y="346" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#536347">Expert Systems with Applications</text>
+<text x="359" y="346" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#7a838b">333 (2027) · 134101</text>
+<rect x="716" y="89" width="154" height="227" rx="12" fill="#ffffff" stroke="#7e858b" stroke-width="1.2"/>
+<rect x="724" y="97" width="138" height="211" rx="7" fill="#f8fbfd" stroke="none" stroke-width="1.2"/>
+<rect x="891" y="89" width="154" height="227" rx="12" fill="#ffffff" stroke="#7e858b" stroke-width="1.2"/>
+<rect x="899" y="97" width="138" height="211" rx="7" fill="#fffaf0" stroke="none" stroke-width="1.2"/>
+<rect x="1066" y="89" width="154" height="227" rx="12" fill="#ffffff" stroke="#7e858b" stroke-width="1.2"/>
+<rect x="1074" y="97" width="138" height="211" rx="7" fill="#f0f6ea" stroke="none" stroke-width="1.2"/>
+<text x="793" y="119" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#30383e">Graph encoding</text>
+<text x="968" y="119" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#30383e">Semantic alignment</text>
+<text x="1143" y="119" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#30383e">Conflict refinement</text>
+<circle cx="793" cy="159" r="24" fill="#ffffff" stroke="#98a2ad" stroke-width="1" stroke-dasharray="4 3"/>
+<path d="M783 149L804 148" fill="none" stroke="#88cfee" stroke-width="1.3"/>
+<path d="M804 148L808 167" fill="none" stroke="#88cfee" stroke-width="1.3"/>
+<path d="M808 167L790 174" fill="none" stroke="#88cfee" stroke-width="1.3"/>
+<path d="M790 174L776 163" fill="none" stroke="#88cfee" stroke-width="1.3"/>
+<path d="M776 163L783 149" fill="none" stroke="#88cfee" stroke-width="1.3"/>
+<path d="M783 149L790 174" fill="none" stroke="#88cfee" stroke-width="1.3"/>
+<circle cx="783" cy="149" r="4" fill="#88cfee" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="804" cy="148" r="4" fill="#88cfee" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="808" cy="167" r="4" fill="#88cfee" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="790" cy="174" r="4" fill="#88cfee" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="776" cy="163" r="4" fill="#88cfee" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="793" cy="217" r="24" fill="#ffffff" stroke="#98a2ad" stroke-width="1" stroke-dasharray="4 3"/>
+<path d="M783 207L804 206" fill="none" stroke="#92e5bd" stroke-width="1.3"/>
+<path d="M804 206L808 225" fill="none" stroke="#92e5bd" stroke-width="1.3"/>
+<path d="M808 225L790 232" fill="none" stroke="#92e5bd" stroke-width="1.3"/>
+<path d="M790 232L776 221" fill="none" stroke="#92e5bd" stroke-width="1.3"/>
+<path d="M776 221L783 207" fill="none" stroke="#92e5bd" stroke-width="1.3"/>
+<path d="M783 207L790 232" fill="none" stroke="#92e5bd" stroke-width="1.3"/>
+<circle cx="783" cy="207" r="4" fill="#92e5bd" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="804" cy="206" r="4" fill="#92e5bd" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="808" cy="225" r="4" fill="#92e5bd" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="790" cy="232" r="4" fill="#92e5bd" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="776" cy="221" r="4" fill="#92e5bd" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="793" cy="275" r="24" fill="#ffffff" stroke="#98a2ad" stroke-width="1" stroke-dasharray="4 3"/>
+<path d="M783 265L804 264" fill="none" stroke="#ffda70" stroke-width="1.3"/>
+<path d="M804 264L808 283" fill="none" stroke="#ffda70" stroke-width="1.3"/>
+<path d="M808 283L790 290" fill="none" stroke="#ffda70" stroke-width="1.3"/>
+<path d="M790 290L776 279" fill="none" stroke="#ffda70" stroke-width="1.3"/>
+<path d="M776 279L783 265" fill="none" stroke="#ffda70" stroke-width="1.3"/>
+<path d="M783 265L790 290" fill="none" stroke="#ffda70" stroke-width="1.3"/>
+<circle cx="783" cy="265" r="4" fill="#ffda70" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="804" cy="264" r="4" fill="#ffda70" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="808" cy="283" r="4" fill="#ffda70" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="790" cy="290" r="4" fill="#ffda70" stroke="#ffffff" stroke-width=".6"/>
+<circle cx="776" cy="279" r="4" fill="#ffda70" stroke="#ffffff" stroke-width=".6"/>
+<rect x="916" y="142" width="105" height="47" rx="7" fill="#e5eaf7" stroke="none" stroke-width="1.2"/>
+<rect x="929" y="153" width="11" height="25" rx="1.5" fill="#88cfee" stroke="none" stroke-width="1.2"/>
+<path d="M929 160L940 160" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="943" y="153" width="11" height="25" rx="1.5" fill="#92e5bd" stroke="none" stroke-width="1.2"/>
+<path d="M943 160L954 160" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="957" y="153" width="11" height="25" rx="1.5" fill="#ffda70" stroke="none" stroke-width="1.2"/>
+<path d="M957 160L968 160" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="971" y="153" width="11" height="25" rx="1.5" fill="#9aaddd" stroke="none" stroke-width="1.2"/>
+<path d="M971 160L982 160" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="985" y="153" width="11" height="25" rx="1.5" fill="#88cfee" stroke="none" stroke-width="1.2"/>
+<path d="M985 160L996 160" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<path d="M968 194L968 214" fill="none" stroke="#404449" stroke-width="1.5"/>
+<path d="M964 208L968 214L972 208" fill="none" stroke="#404449" stroke-width="1.5"/>
+<ellipse cx="950" cy="246" rx="24" ry="17" fill="#88cfee" fill-opacity=".22" stroke="#88cfee" stroke-width="1.4"/>
+<ellipse cx="972" cy="252" rx="24" ry="17" fill="#92e5bd" fill-opacity=".22" stroke="#92e5bd" stroke-width="1.4"/>
+<ellipse cx="985" cy="242" rx="24" ry="17" fill="#ffda70" fill-opacity=".22" stroke="#ffda70" stroke-width="1.4"/>
+<text x="968" y="291" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" fill="#68727c">Neighborhoods</text>
+<rect x="1102" y="143" width="11" height="25" rx="1.5" fill="#88cfee" stroke="none" stroke-width="1.2"/>
+<path d="M1102 150L1113 150" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="1116" y="143" width="11" height="25" rx="1.5" fill="#92e5bd" stroke="none" stroke-width="1.2"/>
+<path d="M1116 150L1127 150" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="1130" y="143" width="11" height="25" rx="1.5" fill="#ffda70" stroke="none" stroke-width="1.2"/>
+<path d="M1130 150L1141 150" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="1144" y="143" width="11" height="25" rx="1.5" fill="#9aaddd" stroke="none" stroke-width="1.2"/>
+<path d="M1144 150L1155 150" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="1158" y="143" width="11" height="25" rx="1.5" fill="#88cfee" stroke="none" stroke-width="1.2"/>
+<path d="M1158 150L1169 150" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="1172" y="143" width="11" height="25" rx="1.5" fill="#92e5bd" stroke="none" stroke-width="1.2"/>
+<path d="M1172 150L1183 150" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<path d="M1143 175L1143 191" fill="none" stroke="#404449" stroke-width="1.5"/>
+<path d="M1139 185L1143 191L1147 185" fill="none" stroke="#404449" stroke-width="1.5"/>
+<rect x="1086" y="198" width="114" height="44" rx="7" fill="#e4e6f3" stroke="#a2adc3" stroke-width="1.2"/>
+<text x="1143" y="217" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" fill="#4c5665">Attentional</text>
+<text x="1143" y="232" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" fill="#4c5665">diffusion</text>
+<path d="M1143 248L1143 264" fill="none" stroke="#404449" stroke-width="1.5"/>
+<path d="M1139 258L1143 264L1147 258" fill="none" stroke="#404449" stroke-width="1.5"/>
+<rect x="1102" y="274" width="11" height="25" rx="1.5" fill="#88cfee" stroke="none" stroke-width="1.2"/>
+<path d="M1102 281L1113 281" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="1116" y="274" width="11" height="25" rx="1.5" fill="#92e5bd" stroke="none" stroke-width="1.2"/>
+<path d="M1116 281L1127 281" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="1130" y="274" width="11" height="25" rx="1.5" fill="#ffda70" stroke="none" stroke-width="1.2"/>
+<path d="M1130 281L1141 281" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="1144" y="274" width="11" height="25" rx="1.5" fill="#9aaddd" stroke="none" stroke-width="1.2"/>
+<path d="M1144 281L1155 281" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="1158" y="274" width="11" height="25" rx="1.5" fill="#88cfee" stroke="none" stroke-width="1.2"/>
+<path d="M1158 281L1169 281" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="1172" y="274" width="11" height="25" rx="1.5" fill="#92e5bd" stroke="none" stroke-width="1.2"/>
+<path d="M1172 281L1183 281" fill="none" stroke="#ffffff" stroke-width="0.7"/>
+<path d="M873 208L886 208" fill="none" stroke="#404449" stroke-width="1.5"/>
+<path d="M880 204L886 208L880 212" fill="none" stroke="#404449" stroke-width="1.5"/>
+<path d="M1048 208L1061 208" fill="none" stroke="#404449" stroke-width="1.5"/>
+<path d="M1055 204L1061 208L1055 212" fill="none" stroke="#404449" stroke-width="1.5"/>
+<text x="793" y="346" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#58616b" letter-spacing="1.6">PGE</text>
+<text x="968" y="346" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#58616b" letter-spacing="1.6">HSC</text>
+<text x="1143" y="346" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#58616b" letter-spacing="1.6">LAD</text>
+</svg>

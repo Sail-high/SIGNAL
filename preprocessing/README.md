@@ -11,11 +11,11 @@ Keep pressing `ESC` to stop the redirecting action.
 
 ## Step by step
 1. Performing 5-core filtering, re-indexing - `run 0rating2inter.ipynb`
-2. Train/valid/test data splitting - `run 1spliting.ipynb`
+2. Train/valid/test data splitting - `run 1splitting.ipynb`
 3. Reindexing feature IDs with generated IDs in step 1 - `run 2reindex-feat.ipynb`
 4. Encoding text/image features - `run 3feat-encoder.ipynb`
 5. Filling your data description file `*.yaml` under `src/configs/dataset` with the generated file names `*.inter`, `*-feat.npy`, etc.
-6. Specifying your evaluated dataset by cmd: `python -d sports -m BM3`.
+6. From `src/`, specify the dataset and model, for example: `python main.py -d sports -m BM3`.
 
 
 ## DualGNN requires additional operation to generate the u-u graph
