@@ -1,0 +1,27 @@
+lambda_coeff: 0.01   #[0.01, 0.001]
+Heteromodal_coeff: [0.6]     #baby0.6  sports clothing 0.5
+
+cl_a: [0.01] #[0.1,0.01,0.001]   #alignment
+cl_d: [0.001] # [1, 0.1, 0.01, 0.001, 0.0001]  #differentiate    baby clothing:0.001   sports 0.0001
+n_mm_layers: 1 # [1, 2]   
+n_ui_layers: 2 # [1, 2, 3]   
+knn_k: [10] #[5, 10, 15, 20]  baby:10    sports clothing:5
+rho: [5] #[4, 5, 6, 7, 8] # baby clothing5  sports6
+learning_rate: 0.001 #[0.001, 0.0005, 0.0001]
+
+
+res_ii: [0.1] #[0.05,0.1, 0.15, 0.2] #baby0.1
+res_dif: [0.4] # [0.1,0.2,0.3,0.4,0.6,0.7,0.8,0.9] #[0.2]  # baby 0.4   sports  0.5  clothing: 0.6
+
+#diffusion
+diffusion_steps: 5 #add noise
+denoise_steps: [1] #[1,2,3,4] #1  #denoise
+use_diffusion: True
+diff_weight : [10] #[10,1, 0.1, 0.01, 0.001, 0.0001] ##baby clothing  10 sports 1
+noise_coeff: 0.1  
+
+embedding_size: 64
+feat_embed_dim: 64
+weight_size: [64, 64]
+
+hyper_parameters: ["denoise_steps","knn_k","rho", "Heteromodal_coeff","cl_a","cl_r","cl_d","diff_weight","res_ii","res_dif"]
