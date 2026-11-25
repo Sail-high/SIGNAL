@@ -143,6 +143,8 @@ SIGNAL/
 
 The other models in `src/models/` are inherited MMRec baselines. Their presence does not imply that every baseline evaluated in the SIGNAL paper is included here.
 
+For more experiments on TikTok, please refer to: https://github.com/XMUDM/DA-MRS/tree/main/src_tiktok.
+
 ## Citation
 
 If SIGNAL is useful for your research, please cite:
