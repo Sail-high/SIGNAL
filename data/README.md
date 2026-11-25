@@ -22,6 +22,8 @@ The inherited MMRec data documentation provides a [Baby / Sports / Elec Google D
 
 The original [MicroLens resource](https://drive.google.com/drive/folders/14UyTAh_YyDV8vzXteBJiy9jv8TBDK43w?usp=drive_link) is a separate dataset; it is not the paper's TikTok dataset.
 
+TikTok dataset：https://gitee.com/studnet_f/light-gcn-replicates-pytorch
+
 ## Expected layout
 
 For Baby, the supplied dataset configuration expects:
