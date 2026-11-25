@@ -126,10 +126,3 @@ python main.py --model SIGNAL --dataset baby
 
 感谢 [MMRec](https://github.com/enoche/MMRec) 提供训练、数据加载、评估与基线实现。本仓库保留原始作者署名及 [GPL v3 许可证](LICENSE)，框架引用见[致谢说明](ACKNOWLEDGEMENTS.md)。论文及图示保留各自的出版声明。
 
-## 联系方式
-
-如有 SIGNAL 相关问题，请联系 **高航（Hang Gao）**：
-
-[1000566340@smail.shnu.edu.cn](mailto:1000566340@smail.shnu.edu.cn)
-
-也欢迎提交 [GitHub Issue](https://github.com/Sail-high/SIGNAL/issues)。
