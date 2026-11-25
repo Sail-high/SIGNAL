@@ -167,6 +167,3 @@ SIGNAL is developed on top of [MMRec](https://github.com/enoche/MMRec). We thank
 
 The inherited [GNU GPL v3 license](LICENSE) and source attribution are retained. The article and its figures retain their respective publication notices.
 
-## Contact
-
-For questions about SIGNAL, please contact **Hang Gao (高航)** at [1000566340@smail.shnu.edu.cn](mailto:1000566340@smail.shnu.edu.cn), or open a [GitHub issue](https://github.com/Sail-high/SIGNAL/issues).
