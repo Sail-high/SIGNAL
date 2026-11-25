@@ -45,7 +45,7 @@ SIGNAL loads the item graph with `np.load(..., allow_pickle=True).item()`. Its `
 
 The paper constructs this graph from **training interactions only**, with pruning and top-k selection described in Section 3.2.1. Validation and test interactions must be excluded.
 
-The inherited `dualgnn-gen-u-u-matrix.py` creates a **user–user** graph for DualGNN. It does not supply SIGNAL's required **item–item** co-occurrence graph.
+Use "build_iib_graph. py" to create the item co-occurrence graph.
 
 ## Preprocessing
 
