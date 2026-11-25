@@ -18,9 +18,7 @@ The paper uses an 80% / 10% / 10% train / validation / test split and 5-core fil
 
 ## Existing MMRec resources
 
-The inherited MMRec data documentation provides a [Baby / Sports / Elec Google Drive folder](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing). Elec is not one of the four datasets reported in the SIGNAL paper.
-
-The original [MicroLens resource](https://drive.google.com/drive/folders/14UyTAh_YyDV8vzXteBJiy9jv8TBDK43w?usp=drive_link) is a separate dataset; it is not the paper's TikTok dataset.
+The inherited MMRec data documentation provides a [Baby / Sports / Elec Google Drive folder](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing). 
 
 TikTok dataset：https://gitee.com/studnet_f/light-gcn-replicates-pytorch
 
